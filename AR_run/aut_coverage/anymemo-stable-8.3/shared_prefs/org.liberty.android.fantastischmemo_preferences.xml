@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+<null name="recentdbpath1" />
+<null name="recentdbpath0" />
+<null name="recentdbpath3" />
+<null name="recentdbpath2" />
+<null name="recentdbpath5" />
+<null name="recentdbpath4" />
+<null name="recentdbpath6" />
+<int name="screen_width" value="480" />
+<null name="recentdbname1" />
+<null name="recentdbname0" />
+<null name="recentdbname3" />
+<null name="recentdbname2" />
+<null name="recentdbname4" />
+<null name="recentdbname5" />
+<boolean name="first_time" value="false" />
+<null name="recentdbname6" />
+<string name="saved_version">8.3.1</string>
+<int name="screen_height" value="800" />
+</map>
